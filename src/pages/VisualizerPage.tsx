@@ -123,7 +123,6 @@ export default function VisualizerPage() {
          
         </div>
         
-        {/* <InstructionsButton /> */}
         
 
         {/* Main Content */}
